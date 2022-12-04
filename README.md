@@ -13,3 +13,5 @@ Fitur yang digunakan pada analisis ini:
 7. Residence Type
 8. Average Glucose Level, dan
 9. BMI.
+
+Output dari prediksi ini akan ada dua, yaitu Ya dan Tidak.
